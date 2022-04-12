@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Dr Isah A. Lawal</title>
+  <meta name="description" content="Noroff University College <br>Faculty of Applied Computing adn Technology <br> Elvegata 2A, 4608, Kristiansand, Norway
+">
+
+  <link rel="stylesheet" href="./css/main.css">
+  <link rel="canonical" href="https://isahalawal.github.io/IsahALawal">
+  <link rel="alternate" type="application/rss+xml" title="Dr Isah A.Lawal" href="https://isahalawal.github.io/IsahALawal/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header>
+        <div class="logo"></div>
+		<nav> 
+		     <ul>
+			 
+		         <li class="active">
+			        <a href="#">Home</a>
+			     </li>
+			
+			    <li>
+			       <a href="#">Routes</a>
+			    </li>
+
+                <li>
+			       <a href="#">About Us</a>
+			    </li>
+			
+			   <li>
+			      <a href="#">Contact</a>
+			   </li>
+			   
+		    </ul>
+		</nav>
+		
+	</header>	
+  
+
+</html>
