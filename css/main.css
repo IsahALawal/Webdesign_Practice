@@ -22,7 +22,7 @@
     text-decoration: none; }
 
 .site-header .wrapper {
-  padding-top: 20px;
+  padding-top: 50px;
   position: relative; }
 
 .site-nav ul li a {
@@ -120,7 +120,6 @@
     display: none; }
   .site-nav .page-link {
     color: #ffffff;
-    background: #8B4513;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
