@@ -29,7 +29,6 @@ header {
       li {
         display:inline-block;
         font-size:20px;
-        
         a {
           display:inline-block;
           color:#707070;
@@ -38,7 +37,7 @@ header {
       
         &.active {
           a {
-            background: #F8F5F1;
+            background: #00000;
             font-weight:bold;
           }
       }
