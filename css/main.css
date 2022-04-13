@@ -6,8 +6,6 @@ body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
    }
 
-
-
 /**
  * Site header
  */
@@ -25,7 +23,7 @@ header {
     ul {
       margin: 0;
       padding: 0;
-      list-style:none;
+      list-style-type:none;
       li {
         display:inline-block;
         font-size:20px;
@@ -37,7 +35,7 @@ header {
       
         &.active {
           a {
-            background: #00000;
+            background: #E6B0AA;
             font-weight:bold;
           }
       }
