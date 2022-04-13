@@ -1,29 +1,50 @@
+
+/**
+ * Basic styling
+ */
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+   }
+
+
+
 /**
  * Site header
  */
-.site-header {
-  min-height: 56px;
-  background: #E6B0AA;
-  position: relative; }
-
- ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
- overflow: hidden; }
-
-li {
-  float: right;
+header {
+    display:flex;
+    height:200px;
+    padding: 30px; 
+  .logo {
+    img {
+  }
+    margin-right:30px;
+  }
+  nav {
+    flex:1;
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      li {
+        display:inline-block;
+        font-size:20px;
+        
+        a {
+          display:inline-block;
+          color:#707070;
+           padding:15px
+        }
+      
+        &.active {
+          a {
+            background: #E6B0AA;
+            font-weight:bold;
+          }
+      }
+    }
+  }
 }
-
- li a {
-  display: block;
-  color: Black;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
 }
-li a:hover {
-  background-color: #D98880;
-}
-
+    
+ 
