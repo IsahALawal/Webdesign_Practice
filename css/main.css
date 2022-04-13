@@ -6,7 +6,7 @@
   background: #E5E7E9;
   position: relative; }
 
-.site-nav ul {
+ ul {
   text-align: center;
   float: right;
   padding-top: 9px;
@@ -20,11 +20,11 @@
   text-transform: uppercase;
   font-family: 'Titillium Web', sans-serif; }
 
-.site-nav li {
+li {
   float: right;
 }
 
-.site-nav li a {
+ li a {
   display: block;
   color: white;
   text-align: center;
